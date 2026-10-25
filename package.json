@@ -1,0 +1,10 @@
+{
+  "name": "openrouter-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Free AI chatbot using OpenRouter free models, hosted on Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
